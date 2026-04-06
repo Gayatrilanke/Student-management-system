@@ -20,8 +20,8 @@ Features
 - JavaScript
 
 
- Purpose of the Project
 
+ Purpose of the Project
 This project was created during my learning phase to understand:
 
 - DOM manipulation
